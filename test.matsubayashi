@@ -1,1 +1,3 @@
 だんだんわかってきたぞ！
+
+SELECT * FROM TBL01_AGGREGATE_DATA --←こんなかんじ
